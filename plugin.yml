@@ -1,0 +1,8 @@
+name: AuraGems
+main: pl.aura.AuraPlugin
+version: 1.0
+api-version: '1.21'
+commands:
+  aura:
+    description: Wlacza lub wylacza aure z klejnotami
+    usage: /aura
